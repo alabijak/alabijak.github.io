@@ -1,3 +1,3 @@
 ## alabijak libaries documentation
 
-[dea-robustness library documentation](/dea-robustness)
+[robustDEA library documentation](/dea-robustness)
